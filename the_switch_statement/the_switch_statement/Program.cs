@@ -10,7 +10,7 @@ namespace the_switch_statement
     {
         static void Main(string[] args)
         {
-          /*  string excuse; var today = DayOfWeek.Saturday + 1;
+           string excuse; var today = DayOfWeek.Saturday + 1;
 
             switch (today)
             {
@@ -37,7 +37,7 @@ namespace the_switch_statement
                     throw new Exception();
 
             }
-            Console.WriteLine(excuse);*/
+            Console.WriteLine(excuse);
             CreateExcuse(DayOfWeek.Sunday);
 
         }
