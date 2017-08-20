@@ -1,0 +1,6 @@
+C:\Projects\the_switch_statement\the_switch_statement\bin\Debug\the_switch_statement.exe.config
+C:\Projects\the_switch_statement\the_switch_statement\bin\Debug\the_switch_statement.exe
+C:\Projects\the_switch_statement\the_switch_statement\bin\Debug\the_switch_statement.pdb
+C:\Projects\the_switch_statement\the_switch_statement\obj\Debug\the_switch_statement.csprojResolveAssemblyReference.cache
+C:\Projects\the_switch_statement\the_switch_statement\obj\Debug\the_switch_statement.exe
+C:\Projects\the_switch_statement\the_switch_statement\obj\Debug\the_switch_statement.pdb
